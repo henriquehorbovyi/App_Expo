@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expotec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">Sobre</string>
+    <string name="title_activity_main">Expotec</string>
+    <string name="copy">Developer: Carlos Henry </string>
+    <string name="title_activity_game">Game</string>
+    <string name="welcome">Seu guia de bolso!</string>
+    <string name="eventos">Evento</string>
+    <string name="minhaAgenda">Minha Agenda</string>
+    <string name="programacao">Programação</string>
+    <string name="title_activity_evento">Evento</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
